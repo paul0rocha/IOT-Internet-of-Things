@@ -24,8 +24,8 @@ projeto que auxiliará na vida das pessoas o deixando mais informada a respeito 
     + Body
 
             
- {
-  "channel": {
+ 
+  {
     "id": 1053267,
     "name": "Final Project",
     "description": "Canal para armazenar dados de Lab08\r\n",
@@ -38,6 +38,7 @@ projeto que auxiliará na vida das pessoas o deixando mais informada a respeito 
     "updated_at": "2020-05-29T15:43:24Z",
     "last_entry_id": 246
   }
+  
            
 
 ### Tks!
