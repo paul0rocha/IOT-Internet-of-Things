@@ -37,24 +37,7 @@ projeto que auxiliará na vida das pessoas o deixando mais informada a respeito 
     "created_at": "2020-05-05T14:28:23Z",
     "updated_at": "2020-05-29T15:43:24Z",
     "last_entry_id": 246
-  },
-  "feeds": [
-    {
-      "created_at": "2022-10-08T02:55:20Z",
-      "entry_id": 245,
-      "field1": "30",
-      "field2": "1",
-      "field3": "43"
-    },
-    {
-      "created_at": "2022-10-08T02:56:40Z",
-      "entry_id": 246,
-      "field1": "0",
-      "field2": null,
-      "field3": null
-    }
-  ]
-}
+  }
            
 
 ### Tks!
