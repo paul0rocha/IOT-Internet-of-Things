@@ -21,11 +21,13 @@ projeto que auxiliará na vida das pessoas o deixando mais informada a respeito 
   
 + Response 200 (application/json)
 
+
     + Body
 
-   {
-    'id': 1053267,
+            {
+                   'id': 1053267,
     'name': 'Final Project',
+    'description': 'Canal para armazenar dados de Lab08\r\n',
     'latitude': '0.0',
     'longitude': '0.0',
     'field1': 'TEMPERATURA',
@@ -34,6 +36,6 @@ projeto que auxiliará na vida das pessoas o deixando mais informada a respeito 
     'created_at': '2020-05-05T14:28:23Z',
     'updated_at': '2020-05-29T15:43:24Z',
     'last_entry_id': 247
-   }
+            }
   
   ### Tks!
