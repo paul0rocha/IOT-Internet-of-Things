@@ -26,7 +26,6 @@ projeto que auxiliará na vida das pessoas o deixando mais informada a respeito 
    {
     'id': 1053267,
     'name': 'Final Project',
-    'description': 'Canal para armazenar dados de Lab08\r\n',
     'latitude': '0.0',
     'longitude': '0.0',
     'field1': 'TEMPERATURA',
