@@ -1,21 +1,31 @@
-
-
 ## Internet Of Things
 
 
-### PROJETO
-
-O projeto consiste em obter dados de sensores e apresentar graficamente as informações de Temperatura, Umidade e Conectores da residência.
-
-![Simulaçãoa](https://user-images.githubusercontent.com/63813811/194684410-e9b8af83-f2b4-47ad-8d09-da22dfc13b7f.png)
-
-## Aplicabilidade
+ ![Img](https://user-images.githubusercontent.com/63813811/194684410-e9b8af83-f2b4-47ad-8d09-da22dfc13b7f.png)
 
 
 
-projeto que auxiliará na vida das pessoas o deixando mais informada a respeito da situação meteorológica ao redor da sua residência com auxílio de sensores, e assim facilitando a vida do usuário.
+## About this Project
 
-### RequesT
+The idea of ​​the program is:
+
+_"The project consists of obtaining data from sensors and graphically presenting information on Temperature, Humidity and Connectors of the residence."_
+
+**PS:** During the development of the project, we used the Tinkercad platform to simulate the home environment and, with that, we used the sensors to capture the data and send it via the RestFull API to the thinkspeack endpoint, thus controlling the calls and data submissions.
+
+🤩:**
+
+
+## Some notes about this app
+
+1 - Thingspeak: Control of POST / GET requests
+
+2 - Thinkecard: Control of electronic devices
+
+
+
+
+ ### RequesT
 
  https://api.thingspeak.com/channels/1053267/feeds.json?results=2
   
@@ -55,5 +65,30 @@ projeto que auxiliará na vida das pessoas o deixando mais informada a respeito 
             }
           ]
           }
-  
-  ### Tks!
+
+
+**Installing dependencies**
+
+
+```
+pip install pycep-correios==4.0.3
+```
+ ![Img](https://github.com/steniowagner/mindCast/assets/63813811/46842741-3b16-4ed8-bb08-30cbd75e59d9)
+
+
+
+
+## Contributing
+
+You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
+
+Email-me: pauloseng80@gmail.com.com
+
+Connect with me at [LinkedIn](https://www.linkedin.com/in/pauloroch/)
+
+Thank you!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/paul0rocha/mindCast/blob/master/LICENSE) file for details
+
